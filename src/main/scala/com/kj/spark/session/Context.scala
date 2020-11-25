@@ -11,6 +11,7 @@ trait Context {
 
    // lazy val sparkContextObj=new SparkContext("local[*]", "WordCount")
 
+
     println(Console.BOLD)
    println("Spark Context Created...!!!!")
 }
